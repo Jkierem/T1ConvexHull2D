@@ -1,3 +1,0 @@
-/home/juan/Documents/Programacion/GeometriaComputacional/T1ConvexHull2D/naive/build/CMakeFiles/rebuild_cache.dir
-/home/juan/Documents/Programacion/GeometriaComputacional/T1ConvexHull2D/naive/build/CMakeFiles/convexhull.dir
-/home/juan/Documents/Programacion/GeometriaComputacional/T1ConvexHull2D/naive/build/CMakeFiles/edit_cache.dir
